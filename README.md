@@ -6,6 +6,11 @@ GOOGLE_API_KEY=your google key
 FLASK_PORT=5000
 FLASK_ENV=development
 
+To get the libraries:
+pip install -r requirements.txt
+IN fastapi-backend
+AND Agent
+
 Then for the respective data.
 
 Product Data:
