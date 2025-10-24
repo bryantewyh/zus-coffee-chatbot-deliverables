@@ -1,0 +1,14 @@
+Flask
+Flask-Cors
+Werkzeug
+gunicorn
+requests
+tqdm
+numpy==1.26.4
+python-dotenv
+openai
+langchain-core
+langchain==0.3.27
+langchain-community
+langchain-openai
+tiktoken

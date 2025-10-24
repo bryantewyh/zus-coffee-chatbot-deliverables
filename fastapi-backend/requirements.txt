@@ -1,0 +1,12 @@
+
+python-dotenv
+requests
+pandas
+numpy==1.26.4
+sqlalchemy
+faiss-cpu==1.8.0
+sentence-transformers
+openai
+fastapi
+uvicorn[standard]
+pydantic
