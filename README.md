@@ -2,12 +2,16 @@
 To host locally, the data has to first be prepared. Start off by creating an .env file at the root of the project, then follow the following format:
 
 OPENAI_API_KEY=your openai key
+
 GOOGLE_API_KEY=your google key
+
 FLASK_ENV=development
 
 To get the libraries:
 pip install -r requirements.txt
+
 IN fastapi-backend
+
 AND Agent
 
 Then for the respective data.
