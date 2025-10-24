@@ -3,7 +3,6 @@ To host locally, the data has to first be prepared. Start off by creating an .en
 
 OPENAI_API_KEY=your openai key
 GOOGLE_API_KEY=your google key
-FLASK_PORT=5000
 FLASK_ENV=development
 
 To get the libraries:
